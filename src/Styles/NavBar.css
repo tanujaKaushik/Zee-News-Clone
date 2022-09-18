@@ -1,0 +1,23 @@
+.pt-n1 a {
+    font-size: 11px;
+    margin-left: -2px;
+    margin-top: -11px;
+    margin-bottom: -8px;
+  }
+
+.main{
+    height: 100px;
+    width: 100%;
+    /* border: solid rgb(184, 181, 181) 1px; */
+}
+
+.logo{
+    height: 90px;
+    width: 200px;
+    padding: 15px 5px;
+    margin-left: -10px;
+}
+
+.l-size{
+    font-size:13px;
+}

@@ -1,0 +1,38 @@
+.row{
+  margin:1px 100px;
+}
+.carousel-container{
+    padding:5px 5px;
+    background-color: rgb(44, 43, 43);
+    color: antiquewhite;
+    height:300px;
+    width:100%;
+  }
+  .carousel{
+    height:200px;
+    width:320px;
+    /* overflow: hidden; */
+    margin: 3px auto;
+  }
+  .carousel img{
+    height: 220px;
+    width:auto;
+    opacity: 50%;
+  }
+  
+  .middle-main-news img {
+    width: 100%;
+    max-height: 500px;
+  }
+  .middle-main-news p{
+    margin-top: -100px;
+    margin-bottom: 30px;
+  }
+  .ad {
+    width: 100%;
+  }
+  .video{
+    width: 100%;
+    height: 300px;
+    margin-top: -5px;
+  }

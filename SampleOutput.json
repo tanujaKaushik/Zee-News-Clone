@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "STLtoday.com"
+            },
+            "author": "Steph Kukuljan, Annika Merrilees",
+            "title": "Centene's cuts pleased investors, but may be 'disastrous' for St. Louis' office market - St. Louis Post-Dispatch",
+            "description": "Centene brought an abrupt end to its plans for an East Coast headquarters, stunning local leaders there but pleasing Wall Street.",
+            "url": "https://www.stltoday.com/business/local/centene-s-cuts-pleased-investors-but-may-be-disastrous-for-st-louis-office-market/article_34653cfc-1f8e-5101-9e92-154cf687dc2e.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/e4/ce4b6fa1-d40c-5c23-8fea-98f2fb46d4c0/630024b83fc7d.image.jpg?crop=1696%2C890%2C0%2C165&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2022-08-20T16:19:00Z",
+            "content": "CLAYTON For decades, managed health care company Centene Corp. focused on scale. Now one of the largest in its industry, Centene is recalibrating for efficiency.\r\nThe shift in strategy brought an abr… [+4784 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Peter Aitken",
+            "title": "Housing market records sharpest decline in sales in almost two decades: report - Fox Business",
+            "description": "The sharp decline shows the lagging effect of the increased mortgage rate on the housing market, with prices still higher than the same time last year despite declining.",
+            "url": "https://www.foxbusiness.com/markets/housing-market-records-sharpest-decline-sales-two-decades-report",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/08/0/0/mortgage.jpg?ve=1&tl=1",
+            "publishedAt": "2022-08-20T16:00:25Z",
+            "content": "New data indicates that the housing market is seeing its most severe drop in almost two decades as home sales hit their lowest level in seven years. \r\nExisting Home Sales data showed a drop of 5.9% f… [+3110 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Engineer says she 'quiet quit' her job. Hear what that means - CNN",
+            "description": "Page West, a former engineering consultant, discusses with CNN's Michael Smerconish why she \"quiet quit\" her job.",
+            "url": "https://www.cnn.com/videos/business/2022/08/20/quiet-quitting-work-page-west-smerc-vpx.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220820104513-paige-west-quiet-quitting-engineer-super-tease.jpg",
+            "publishedAt": "2022-08-20T15:26:35Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Danielle Wiener-Bronner",
+            "title": "Why QR-code menus are still around - CNN",
+            "description": "Of all the pandemic-inspired business adoptions, perhaps none is as reviled as the QR-code menus. And yet, it persists.",
+            "url": "https://www.cnn.com/2022/08/20/business-food/qr-code-menus/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220818134254-01-restaurant-menus-qr-codes-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-08-20T14:28:00Z",
+            "content": "Of all the pandemic-inspired business adoptions, perhaps none is as reviled as the QR-code menus. And yet, it persists. \r\nEarly in the pandemic, restaurants ditched physical menus and instead revived… [+5364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Aditi Shrikant",
+            "title": "'For a whole week, I was just breaking down': How 3 renters are coping with the record-breaking cost of rent in New York City - CNBC",
+            "description": "Sky-high rents are a shock to New Yorkers who moved here during the pandemic and those who lived here long before.",
+            "url": "https://www.cnbc.com/2022/08/20/how-three-renters-are-coping-with-record-breaking-rent-in-nyc.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107106836-1660942675568-Thelma-Annan.jpg?v=1660943733&w=1920&h=1080",
+            "publishedAt": "2022-08-20T14:00:01Z",
+            "content": "New York City rent is notoriously unreasonable, and this year it hit an all-time high. In June, citywide median asking rent reached $3,500, a 35% increase from last year, according to a report by Str… [+3995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Clive McKeef",
+            "title": "'Squashed like a bug': Distressed-bond manager makes a multibillion-dollar options bet against Tesla - MarketWatch",
+            "description": "Scott Burg, the chief investment officer of Deer Park Road Management Co, who made the prediction that Tesla would be \"squashed like a bug\" in a 2020 tweet,...",
+            "url": "https://www.marketwatch.com/story/squashed-like-a-bug-distressed-bond-manager-makes-a-multibillion-dollar-options-bet-against-tesla-11661002614",
+            "urlToImage": "https://images.mktw.net/im-603891/social",
+            "publishedAt": "2022-08-20T13:36:00Z",
+            "content": "Scott Burg, the chief investment officer of Deer Park Road Management Co, who made the prediction that Tesla would be squashed like a bug in a 2020 tweet, bought put options on almost 4.8 million Tes… [+3764 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "John Bonifield, CNN",
+            "title": "Wendy's restaurants associated with E. coli outbreak that sickened 37 people in four states, CDC says - CNN",
+            "description": "Wendy's restaurants have been associated with an E. coli outbreak reported in four states, with 37 people infected and 10 hospitalized, the US Centers for Disease Control and Prevention said Friday.",
+            "url": "https://www.cnn.com/2022/08/20/health/wendys-e-coli-outbreak/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220820085046-wendys-restaurant-drive-thru-file-super-tease.jpg",
+            "publishedAt": "2022-08-20T13:23:00Z",
+            "content": "(CNN)Wendy's restaurants have been associated with an E. coli outbreak reported in four states, with 37 people infected and 10 hospitalized, the US Centers for Disease Control and Prevention said Fri… [+1258 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Samyuktha Sriram",
+            "title": "$600M Liquidated In Crypto: Bitcoin (BTC), Ethereum (ETH) And Dogecoin (DOGE) Longs See Max Pain - Benzinga",
+            "description": "More than $600 million was liquidated from crypto markets on Friday as Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH) and Dogecoin (CRYPTO:",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/22/08/28574174/600m-liquidated-in-crypto-bitcoin-btc-ethereum-eth-and-dogecoin-doge-longs-see-max-pain",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2022/08/20/bitcoin_ethereum_doge_storm.jpg?width=1200&height=800&fit=crop",
+            "publishedAt": "2022-08-20T13:17:47Z",
+            "content": "More than $600 million was liquidated from crypto markets on Friday as Bitcoin BTC/USD, Ethereum ETH/USD and Dogecoin DOGE/USD shed over 10% of their value in a single day.\r\nWhat Happened: Around 132… [+1087 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Kate Duguid",
+            "title": "Investors warn of 'disconnect' as markets price in early Fed rate cut - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/2afc16bd-f0fd-40eb-bdf2-70072b54c862",
+            "urlToImage": null,
+            "publishedAt": "2022-08-20T13:00:34Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "The New DeLorean Alpha5 Is Revealed - CNET",
+            "description": "The exterior is a cut above and the interior is accessed via doors you’ve never seen before. Here’s what this new EV will bring to a crowded field of new fla...",
+            "url": "https://www.youtube.com/watch?v=cZX3fHmDEjw",
+            "urlToImage": "https://i.ytimg.com/vi/cZX3fHmDEjw/hqdefault.jpg",
+            "publishedAt": "2022-08-20T12:00:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jessica Dickler",
+            "title": "Despite recession fears and fueled by 'revenge spending,' Americans spend $314 a month on impulse purchases - CNBC",
+            "description": "A surge in ecommerce and buy now, pay later has led to more spontaneous shopping at a time when budgets are particularly strained.",
+            "url": "https://www.cnbc.com/2022/08/20/shoppers-spend-over-300-a-month-on-impulse-purchases-despite-recession-fears.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107049216-gettyimages-1387510765-12971of1.jpeg?v=1650484906&w=1920&h=1080",
+            "publishedAt": "2022-08-20T12:00:01Z",
+            "content": "Impulse buys can quickly erode even the best financial plans.\r\nAnd yet, between sponsored posts on social media and \"revenge spending,\" they are nearly impossible to avoid.\r\nAs the cost of living sur… [+3816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Joseph Adinolfi",
+            "title": "Here are 5 reasons why the bull run in stocks may be about to morph back into a bear market - MarketWatch",
+            "description": "July and August were good months for equity bulls. But the bears might soon retake the upper hand, one Wall Street strategist warned.",
+            "url": "https://www.marketwatch.com/story/here-are-5-reasons-why-the-bull-run-in-stocks-may-be-about-to-morph-back-into-a-bear-market-11660942705",
+            "urlToImage": "https://images.mktw.net/im-607270/social",
+            "publishedAt": "2022-08-20T12:00:00Z",
+            "content": "Some market gurus are starting to worry the summer rally on Wall Street may be starting to fizzle, after stocks quickly lurched from oversold to overbought. Gene Goldman, chief investment officer of … [+5871 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ryan Hogg",
+            "title": "Zuck unveils new boyish avatar days after dead-eyed version - Business Insider",
+            "description": "The Meta CEO posted his new, high-res avatar on Instagram on Friday after Monday's low-res iteration was widely mocked.",
+            "url": "https://www.businessinsider.com/mark-zuckerberg-unveils-new-boyish-avatar-days-after-dead-eyed-2022-8",
+            "urlToImage": "https://i.insider.com/6300ba9dc2794d00197edf2a?width=1200&format=jpeg",
+            "publishedAt": "2022-08-20T11:24:32Z",
+            "content": "Meta CEO Mark Zuckerberg unveiled a new, boyish metaverse avatar on Friday after a creepy, dead-eyed version he posted Monday was roundly mocked.\r\nZuckerberg also on Friday promised a major graphics … [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. wants airlines to boost help for stranded, delayed passengers - Reuters",
+            "description": "Transportation Secretary Pete Buttigieg has urged the 10 largest U.S. airlines to do more to help stranded and delayed passengers, calling the level of disruption travelers have faced this summer as \"unacceptable.\"",
+            "url": "https://www.reuters.com/world/us/us-wants-airlines-boost-help-stranded-delayed-passengers-2022-08-19/",
+            "urlToImage": "https://www.reuters.com/resizer/gY_EMfkQRQ2qxFnQr5cxkIFoAA8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XBGWOTLVP5IRNAKNX6NINWLSXU.jpg",
+            "publishedAt": "2022-08-20T11:23:00Z",
+            "content": "WASHINGTON, Aug 19 (Reuters) - Transportation Secretary Pete Buttigieg has urged the 10 largest U.S. airlines to do more to help stranded and delayed passengers, calling the level of disruption trave… [+3595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Motor City meets a new test in the EV transition: Keeping gearheads behind the wheel - CNBC",
+            "description": "The Detroit automakers are going to have to balance traditional muscle car performance with electrification to maintain their most loyal buyers and fans.",
+            "url": "https://www.cnbc.com/2022/08/20/gm-ford-and-dodge-electric-muscle-cars-face-latest-ev-transition-test.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107106695-1660929724718-Dodge_couple.jpg?v=1660934642&w=1920&h=1080",
+            "publishedAt": "2022-08-20T11:00:01Z",
+            "content": "Dodge CEO Tim Kuniskis unveils the Charger Daytona SRT electric muscle car concept on Aug. 17, 2022 in Pontiac, Mich.  \r\nPONTIAC, Mich. At an event featuring headbanging '80s music and $2 beers this … [+7308 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Will Daniel",
+            "title": "China just ran into something that could be even more devastating for its supply chains than COVID-19 lockdowns: A record heat wave - Fortune",
+            "description": "“These shutdowns have the potential to be equally if not more impactful on supply chains than recent Covid lockdowns,” said Mirko Woitzik, the global director of intelligence solutions for Everstream Analytics, a supply chain insights and risk analytics compa…",
+            "url": "https://fortune.com/2022/08/20/china-heatwave-supply-chain-covid-lockdowns/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/08/China-Heatwave-Disruption.webp?resize=1200,600",
+            "publishedAt": "2022-08-20T11:00:00Z",
+            "content": "COVID-19 lockdowns in China threw a wrench into global supply chains earlier this year, causing shipping and production delays worldwide, and hindering economic growth.Now, the country is facing anot… [+6305 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "James Dean",
+            "title": "Twitter's CFO warned employees they're on track to get 50% of their typical annual bonuses because of the company's financial challenges, report says - Yahoo Finance",
+            "description": "Twitter CFO Ned Segal emailed employees Friday saying the company's bonus pool was currently at 50% of what it could be, The New York Times said.",
+            "url": "https://www.businessinsider.com/twitter-warns-employees-bonuses-halve-50-percent-ned-segal-report-2022-8",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/4OlsWCIdTCmVGQfbV0JqWQ--~B/aD05MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/business_insider_articles_888/c8e377d1a5e54f5c28e9dee58c89545e",
+            "publishedAt": "2022-08-20T09:12:25Z",
+            "content": "Twitter CEO Parag Agrawal (left) is at loggerheads with Elon Musk over the Tesla CEO's proposed $44 billion takeover.Kevin Dietsch/Getty Images, Andrew Kelly/Reuters\r\n<ul><li>Twitter CFO Ned Segal wa… [+2319 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Andrew Jeong",
+            "title": "Walmart expands abortion coverage for staff after Roe overturned - The Washington Post",
+            "description": "Walmart operates more than 2,000 stores in states that have either banned abortion or imposed near-total restrictions on the procedure.",
+            "url": "https://www.washingtonpost.com/business/2022/08/20/walmart-abortion-ban-arkansas-roe/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E2L4FHQ74EI63HHGNASTXUYYMQ.jpg&w=1440",
+            "publishedAt": "2022-08-20T09:04:00Z",
+            "content": "Comment on this story\r\nWalmart is expanding its employee health-care plans to cover more situations in which its staff might seek an abortion, making the nations largest private employer the latest f… [+3192 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nicquel Terry Ellis, CNN",
+            "title": "Cryptocurrency has been touted as the key to building Black wealth. But critics are skeptical - CNN",
+            "description": "Samson Williams was working in the mortgage lending industry in 2014 when a colleague convinced him to invest in cryptocurrency.",
+            "url": "https://www.cnn.com/2022/08/20/us/cryptocurrency-black-investors-reaj/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220816142545-01-building-black-wealth-crypto-skeptic-super-tease.jpg",
+            "publishedAt": "2022-08-20T08:04:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Noam Scheiber",
+            "title": "How Pharmacy Work Stopped Being So Great - The New York Times",
+            "description": "Two years of economic recovery brought strong gains to workers at the top and the bottom, but headwinds for those in between. Consider the pharmacist.",
+            "url": "https://www.nytimes.com/2022/08/20/business/economy/pharmacists-job-inflation.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/05/business/05pharmacist/05pharmacist-facebookJumbo.jpg",
+            "publishedAt": "2022-08-20T07:00:11Z",
+            "content": "In most cases, an industry without enough workers to meet customer demand would simply hire more, or at least raise wages to attract them.\r\nYet, according to the Bureau of Labor Statistics, neither o… [+1773 chars]"
+        }
+    ]
+}
